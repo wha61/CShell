@@ -80,11 +80,14 @@ Bye!
 ## Makefile
 
 Compile: 
+
 	make all
+ 
 Delete compiled file：
+
 	make clean
 
 ## Disclaimer
 
-A Linux/Unix environment is required to run this program successfully as it uses the Linux/Unix system calls to run certain functions. Windows users can run this program through [WSL]
+A Linux/Unix environment is required to run this program successfully as it uses the Linux/Unix system calls to run certain functions. Windows users can run this program through WSL/
 
